@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:auto;
+    
+}
+.form-header{
+    text-align: center;
+    
+}
+.form-header #login,#gmail{
+    color: blue;
+}
+.form-header #login{
+    font-weight: 500;
+}
+.form-header p{
+    border-bottom:0.5px solid #333;
+    padding:15px;
+}
+input{
+    display:block;
+    margin-bottom: 10px;
+    border: rgb(107, 102, 102) 1px solid;
+    width: 100%;
+    padding: 6px;
+}
+.container{
+    margin:auto;
+    width:20%;
+
+}
+.form h1{
+    font-weight: 400;
+    padding:17px 0;
+
+}
+form p{
+     margin-bottom: 10px;
+     font-size: 12px;
+}
+.check input{
+    width:5%;
+    float:left;
+    margin-top:10px;
+    margin-right:8px;
+}
+.check p{
+    width:90%;
+    float:left;
+}
+.ending button{
+    background-color: rgb(69, 155, 118) ;
+    width: 100%;
+    border: 0;
+    height: 30px;
+    color: white;
+}
+
+
+
